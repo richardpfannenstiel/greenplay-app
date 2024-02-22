@@ -1,4 +1,7 @@
 # Greenplay Mobile Application
+iOS and Android application developed with [Flutter](https://flutter.dev) for locating and interacting with Greenplay locker stations.
+
+![screenshots](https://github.com/richardpfannenstiel/greenplay-app/assets/57414694/01c68ad9-7e90-4b36-8aa9-5f98b652eb87)
 
 ## Installation
 
