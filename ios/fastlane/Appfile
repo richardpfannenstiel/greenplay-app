@@ -1,0 +1,8 @@
+app_identifier("app.greenplay") # The bundle identifier of your app
+apple_id("ios.pfannenstiel@icloud.com") # Your Apple Developer Portal username
+
+itc_team_id("122194016") # App Store Connect Team ID
+team_id("HFTNB9V356") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
